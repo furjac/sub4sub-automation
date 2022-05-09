@@ -12,3 +12,7 @@ it will work fine
 and run it in a cmd
 
 if u need any changes say it in issue or pull request
+
+and make sure to subscribe my channel
+
+youtube : https://www.youtube.com/channel/UCess_pA4FBjkXcNnb1NTjMQ
